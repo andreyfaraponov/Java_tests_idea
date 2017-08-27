@@ -7,13 +7,14 @@ public class interfaceses_tests
 		System.out.println("Используем процессор " + p);
 		System.out.println(p.process(s));
 	}
-	public static String s = "Disagreement with beliefs is by definition incorrect";
+	public static String s = "If she weighs the same as a duck, she's made of wood";
 	
 	public static void main(String[] args)
 	{
 		process(new Upcase(), s);
 		process(new Downcase(), s);
 		process(new Splitter(), s);
+		Upcase up = new Upcase();
 	}
 }
 
