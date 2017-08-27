@@ -1,22 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="21a75264-0ef7-41dd-82c8-907cf4342e08" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/test_03/Bread.class" afterPath="$PROJECT_DIR$/out/production/test_03/Bread.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/test_03/Cheese.class" afterPath="$PROJECT_DIR$/out/production/test_03/Cheese.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/test_03/Ctor_tests.class" afterPath="$PROJECT_DIR$/out/production/test_03/Ctor_tests.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/test_03/Downcase.class" afterPath="$PROJECT_DIR$/out/production/test_03/Downcase.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/test_03/Lettuce.class" afterPath="$PROJECT_DIR$/out/production/test_03/Lettuce.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/test_03/Lunch.class" afterPath="$PROJECT_DIR$/out/production/test_03/Lunch.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/test_03/Meal.class" afterPath="$PROJECT_DIR$/out/production/test_03/Meal.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/test_03/PortableLunch.class" afterPath="$PROJECT_DIR$/out/production/test_03/PortableLunch.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/test_03/Processor.class" afterPath="$PROJECT_DIR$/out/production/test_03/Processor.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/test_03/Splitter.class" afterPath="$PROJECT_DIR$/out/production/test_03/Splitter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/test_03/Upcase.class" afterPath="$PROJECT_DIR$/out/production/test_03/Upcase.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/test_03/interfaceses_tests.class" afterPath="$PROJECT_DIR$/out/production/test_03/interfaceses_tests.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/interfaceses_tests.java" afterPath="$PROJECT_DIR$/src/interfaceses_tests.java" />
-    </list>
+    <list default="true" id="21a75264-0ef7-41dd-82c8-907cf4342e08" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -28,68 +13,72 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/test_03$HelloDate.coverage" NAME="HelloDate Coverage Results" MODIFIED="1503610772907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="test_03" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="test_arraylist.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test_arraylist.java">
+      <file leaf-file-name="Inner_classes.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Inner_classes.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="7" column="16" lean-forward="false" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="interfaceses_tests.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/interfaceses_tests.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="141">
-              <caret line="9" column="82" lean-forward="false" selection-start-line="9" selection-start-column="82" selection-end-line="9" selection-end-column="82" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Interface_tests_3.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Interface_tests_3.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="27" column="42" lean-forward="true" selection-start-line="27" selection-start-column="42" selection-end-line="27" selection-end-column="42" />
+            <state relative-caret-position="256">
+              <caret line="16" column="32" lean-forward="true" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#38#39#0" expanded="true" />
+                <element signature="e#81#82#0" expanded="true" />
+                <element signature="e#139#140#0" expanded="true" />
+                <element signature="e#173#174#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Random_doubles.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Random_doubles.java">
+      <file leaf-file-name="Inner_interf_class_wonder.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Inner_interf_class_wonder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="11" column="42" lean-forward="true" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
-              <folding />
+            <state relative-caret-position="198">
+              <caret line="15" column="18" lean-forward="true" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+              <folding>
+                <element signature="e#124#125#0" expanded="true" />
+                <element signature="e#161#162#0" expanded="true" />
+                <element signature="e#356#357#0" expanded="true" />
+                <element signature="e#388#389#0" expanded="true" />
+                <element signature="e#425#426#0" expanded="true" />
+                <element signature="e#459#460#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Pattern_Factory.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Pattern_Factory.java">
+      <file leaf-file-name="Closure_inner_interface.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Closure_inner_interface.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="5" column="57" lean-forward="false" selection-start-line="5" selection-start-column="57" selection-end-line="5" selection-end-column="57" />
+            <state relative-caret-position="144">
+              <caret line="14" column="17" lean-forward="true" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
               <folding>
-                <element signature="e#391#392#0" expanded="true" />
-                <element signature="e#435#436#0" expanded="true" />
-                <element signature="e#459#460#0" expanded="true" />
-                <element signature="e#503#504#0" expanded="true" />
-                <element signature="e#600#601#0" expanded="true" />
-                <element signature="e#635#636#0" expanded="true" />
-                <element signature="e#725#726#0" expanded="true" />
-                <element signature="e#769#770#0" expanded="true" />
-                <element signature="e#793#794#0" expanded="true" />
-                <element signature="e#837#838#0" expanded="true" />
+                <element signature="e#537#538#0" expanded="true" />
+                <element signature="e#582#583#0" expanded="true" />
+                <element signature="e#840#841#0" expanded="true" />
+                <element signature="e#870#871#0" expanded="true" />
+                <element signature="e#907#908#0" expanded="true" />
                 <element signature="e#934#935#0" expanded="true" />
-                <element signature="e#969#970#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Event_system_task.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Event_system_task.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="301">
+              <caret line="36" column="40" lean-forward="false" selection-start-line="36" selection-start-column="40" selection-end-line="36" selection-end-column="40" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#265#266#0" expanded="true" />
+                <element signature="e#313#314#0" expanded="true" />
+                <element signature="e#338#339#0" expanded="true" />
+                <element signature="e#382#383#0" expanded="true" />
+                <element signature="e#483#490#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -134,6 +123,11 @@
         <option value="$PROJECT_DIR$/src/Interface_tests_3.java" />
         <option value="$PROJECT_DIR$/src/Random_doubles.java" />
         <option value="$PROJECT_DIR$/src/Pattern_Factory.java" />
+        <option value="$PROJECT_DIR$/src/Inner_classes.java" />
+        <option value="$PROJECT_DIR$/src/Inner_Interf_wonder.java" />
+        <option value="$PROJECT_DIR$/src/Inner_interf_class_wonder.java" />
+        <option value="$PROJECT_DIR$/src/Closure_inner_interface.java" />
+        <option value="$PROJECT_DIR$/src/Event_system_task.java" />
       </list>
     </option>
   </component>
@@ -181,13 +175,13 @@
               <item name="test_03" type="b2602c69:ProjectViewProjectNode" />
               <item name="test_03" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="interfaceses_tests.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+              <item name="Closure_inner_interface.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
             <path>
               <item name="test_03" type="b2602c69:ProjectViewProjectNode" />
               <item name="test_03" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Pattern_Factory.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+              <item name="Event_system_task.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
           </expand>
           <select />
@@ -213,10 +207,10 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Pattern_Factory">
-    <configuration name="Ctor_tests" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.Closure_inner_interface">
+    <configuration name="Closure_inner_interface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="Ctor_tests" />
+      <option name="MAIN_CLASS_NAME" value="Closure_inner_interface" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -228,9 +222,23 @@
       <module name="test_03" />
       <envs />
     </configuration>
-    <configuration name="Interface_tests_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Inner_classes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="Interface_tests_3" />
+      <option name="MAIN_CLASS_NAME" value="Inner_classes" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="test_03" />
+      <envs />
+    </configuration>
+    <configuration name="Inner_interf_class_wonder$Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="Inner_interf_class_wonder$Test" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -301,35 +309,21 @@
       <envs />
       <method />
     </configuration>
-    <configuration name="interfaceses_tests" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="interfaceses_tests" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="test_03" />
-      <envs />
-    </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Application.Main" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Ctor_tests" />
-      <item index="2" class="java.lang.String" itemvalue="Application.interfaceses_tests" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Interface_tests_3" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Random_doubles" />
-      <item index="5" class="java.lang.String" itemvalue="Application.Pattern_Factory" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Random_doubles" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Pattern_Factory" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Inner_classes" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Inner_interf_class_wonder$Test" />
+      <item index="5" class="java.lang.String" itemvalue="Application.Closure_inner_interface" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Pattern_Factory" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Random_doubles" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Interface_tests_3" />
-        <item index="3" class="java.lang.String" itemvalue="Application.interfaceses_tests" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Ctor_tests" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Closure_inner_interface" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Inner_interf_class_wonder$Test" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Inner_classes" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Pattern_Factory" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Random_doubles" />
       </list>
     </recent_temporary>
   </component>
@@ -361,37 +355,46 @@
     <option name="localTasksCounter" value="3" />
     <servers />
   </component>
+  <component name="TodoView" selected-index="2">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
     <frame x="55" y="-4" width="1313" height="780" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32882884" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32882884" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2777778" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2777778" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24561404" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.273074" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32951945" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32951945" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -562,8 +565,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Pattern_Factory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="5" column="57" lean-forward="false" selection-start-line="5" selection-start-column="57" selection-end-line="5" selection-end-column="57" />
+        <state relative-caret-position="-202">
+          <caret line="15" column="14" lean-forward="false" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
           <folding>
             <element signature="e#391#392#0" expanded="true" />
             <element signature="e#435#436#0" expanded="true" />
@@ -577,6 +580,72 @@
             <element signature="e#837#838#0" expanded="true" />
             <element signature="e#934#935#0" expanded="true" />
             <element signature="e#969#970#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Inner_Interf_wonder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Inner_classes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="16" column="32" lean-forward="true" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+          <folding>
+            <element signature="e#38#39#0" expanded="true" />
+            <element signature="e#81#82#0" expanded="true" />
+            <element signature="e#139#140#0" expanded="true" />
+            <element signature="e#173#174#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Inner_interf_class_wonder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="15" column="18" lean-forward="true" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+          <folding>
+            <element signature="e#124#125#0" expanded="true" />
+            <element signature="e#161#162#0" expanded="true" />
+            <element signature="e#356#357#0" expanded="true" />
+            <element signature="e#388#389#0" expanded="true" />
+            <element signature="e#425#426#0" expanded="true" />
+            <element signature="e#459#460#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Closure_inner_interface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="14" column="17" lean-forward="true" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+          <folding>
+            <element signature="e#537#538#0" expanded="true" />
+            <element signature="e#582#583#0" expanded="true" />
+            <element signature="e#840#841#0" expanded="true" />
+            <element signature="e#870#871#0" expanded="true" />
+            <element signature="e#907#908#0" expanded="true" />
+            <element signature="e#934#935#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Event_system_task.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="36" column="40" lean-forward="false" selection-start-line="36" selection-start-column="40" selection-end-line="36" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#265#266#0" expanded="true" />
+            <element signature="e#313#314#0" expanded="true" />
+            <element signature="e#338#339#0" expanded="true" />
+            <element signature="e#382#383#0" expanded="true" />
+            <element signature="e#483#490#0" expanded="true" />
           </folding>
         </state>
       </provider>
